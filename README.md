@@ -1,8 +1,9 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+Live Demo-[website](https://tailwind-nike-website.netlify.app/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+My Project <br>
+For practice with frontend design and markup, I built a Nike website using React, Vite, and TailwindCSS.<br>
+This project helped me strengthen my skills in responsive design, component architecture, and modern styling techniques.<br>
+The application includes a sleek, user-friendly interface that showcases Nike products, utilizing TailwindCSS for quick styling and a consistent design system<br>
